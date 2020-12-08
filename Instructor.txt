@@ -1,3 +1,6 @@
 #1 This is instructor.txt from master.
 #2 Instructor instructor = new Instructor();
 # List<Instructor> instructorList = new ArrayList<>();
+#4 for (Instructor i : instList) {
+    out("i.name");
+}
