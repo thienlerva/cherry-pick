@@ -1,6 +1,4 @@
 #1 This is instructor.txt from master.
 #2 Instructor instructor = new Instructor();
-# List<Instructor> instructorList = new ArrayList<>();
-#4 for (Instructor i : instList) {
-    out("i.name");
-}
+#3 Instructor[] instArray = new Instructor[3];
+#4 System.out.println(Arrays.toString(intstArray));
