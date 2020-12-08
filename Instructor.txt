@@ -1,3 +1,10 @@
 #1 This is instructor.txt from master.
 #2 Instructor instructor = new Instructor();
+<<<<<<< HEAD
 #3 Instructor[] instArray = new Instructor[3];
+=======
+# List<Instructor> instructorList = new ArrayList<>();
+#4 for (Instructor i : instList) {
+    out("i.name");
+}
+>>>>>>> feature
