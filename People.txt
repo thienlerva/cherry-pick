@@ -4,3 +4,4 @@
 #4 for (People p : peopleList) {
     out("p.name");
 }
+// This is from bugfix
