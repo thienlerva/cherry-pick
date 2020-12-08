@@ -1,10 +1,6 @@
 #1 This is people.txt from master.
 #2 People people = new People();
-<<<<<<< HEAD
-#3 People[] peopleArray = new People[3];
-=======
 #3 List<People> peopleList = new ArrayList<>();
 #4 for (People p : peopleList) {
     out("p.name");
 }
->>>>>>> feature
