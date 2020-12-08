@@ -4,8 +4,4 @@
 #4 for (People p : peopleList) {
     System.out.println("p.name");
 }
-<<<<<<< HEAD
 // This is from master
-=======
-// This is from master
->>>>>>> master
