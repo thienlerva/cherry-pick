@@ -1,2 +1,2 @@
 #1 This is people.txt from master.
-#2 People people = new People();
+#2 People people =
