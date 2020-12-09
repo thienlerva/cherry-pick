@@ -1,7 +1,4 @@
 #1 This is people.txt from master.
 #2 People people = new People();
 #3 List<People> peopleList = new ArrayList<>();
-#4 for (People p : peopleList) {
-    System.out.println("p.name");
-}
-// This is from master
+
