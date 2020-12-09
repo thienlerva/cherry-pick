@@ -1,4 +1,4 @@
 #1 This is instructor.txt from master.
 #2 Instructor instructor = new Instructor();
-#3 Instructor[] instArray = new Instructor[3];
+
 
