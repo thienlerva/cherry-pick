@@ -1,3 +1,6 @@
 #1 This is student.txt from master.
 #2 Student student = new Student();
-
+#3 List<Student> studentList = new ArrayList<>();
+#4 for (Student s : studentLIst) {
+    System.out.println(s.name);
+}
